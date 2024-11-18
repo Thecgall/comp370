@@ -3,3 +3,8 @@ The goal of this project is to analyse the North American, english language medi
 (1) The topics covered in each article, including a tf-idf analysis of the top 10 words associated to each category.
 
 (2) The sentiment of each article, in that wether is positive, negative or neutral.
+
+
+This project was made using the help of the newscatcatcher API's free program for universities, researchers and non-profits.
+
+https://www.newscatcherapi.com/
